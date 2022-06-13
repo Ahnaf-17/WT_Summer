@@ -1,0 +1,74 @@
+[
+    {
+        "firstname": "",
+        "lastname": "",
+        "age": "",
+        "pass": "",
+        "email": "",
+        "designation: ": "",
+        "language": ""
+    },
+    {
+        "firstname": "",
+        "lastname": "",
+        "age": "",
+        "pass": "",
+        "email": "",
+        "designation: ": "",
+        "language": ""
+    },
+    {
+        "firstname": "ahnaf",
+        "lastname": "ahmed",
+        "age": "10",
+        "pass": "asdasd",
+        "email": "ahnaf.ahmed.42173@gmail.com",
+        "designation: ": "",
+        "language": "java,php"
+    },
+    {
+        "firstname": "ahnaf",
+        "lastname": "ahmed",
+        "age": "10",
+        "pass": "asdasd",
+        "email": "ahnaf.ahmed.42173@gmail.com",
+        "designation: ": "",
+        "language": "java,php"
+    },
+    {
+        "firstname": "awsaf",
+        "lastname": "ahmed",
+        "age": "20",
+        "pass": "asdfsadfsadfsdf",
+        "email": "ahnafwk421@gmail.com",
+        "designation: ": null,
+        "language": null
+    },
+    {
+        "firstname": "",
+        "lastname": "",
+        "age": "",
+        "pass": "",
+        "email": "ahnaf.ahmed.42173@gmail.com",
+        "designation: ": null,
+        "language": "java,php,php"
+    },
+    {
+        "firstname": "",
+        "lastname": "",
+        "age": "",
+        "pass": "",
+        "email": "",
+        "designation: ": null,
+        "language": "java"
+    },
+    {
+        "firstname": "",
+        "lastname": "",
+        "age": "",
+        "pass": "",
+        "email": "",
+        "designation: ": "",
+        "language": "java,php"
+    }
+]
